@@ -1,0 +1,19 @@
+# audio files
+
+#*.mp3
+*.m4a
+#*.wav
+
+#distribution
+dist
+
+# user files
+user/
+
+# node
+node_modules
+
+# save data
+saves
+
+.DS_Store
